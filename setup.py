@@ -4,8 +4,8 @@ setup(
     name='helm-ascii-visualizer',
     version='0.1.0',
     description='Visualize Helm chart Kubernetes resources with ASCII diagrams',
-    author='Your Name',
-    author_email='you@example.com',
+    author='rkemendi',
+    author_email='robi@kemendi.ro',
     py_modules=['helm_ascii_visualizer'],
     install_requires=[
         'pyyaml>=5.3',
