@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="100">
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #1e90ff;
+    }
+    .title { font-weight: bold; fill: #0e76a8; font-size: 20px; }
+  </style>
+  <text x="10" y="25" class="title">Helm ASCII Visualizer</text>
+  <text x="10" y="55">Render & Explore Kubernetes Resources</text>
+</svg>
+
